@@ -1,0 +1,877 @@
+{
+  "items": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM"
+      },
+      "followers": {
+        "href": null,
+        "total": 137196
+      },
+      "genres": [
+        "black metal",
+        "death metal",
+        "metal",
+        "norwegian black metal",
+        "pagan black metal",
+        "symphonic black metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0dR10i73opHXuRuLbgxltM",
+      "id": "0dR10i73opHXuRuLbgxltM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f4e8feac493ce71b2edf847b287b0baebbeb8b66",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/725210cbfeb0dfe1e27a5c6a9fcac984a70484d8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/395c2b123d7712f7ca0e4fd94f38c98ab983d982",
+          "width": 160
+        }
+      ],
+      "name": "Mayhem",
+      "popularity": 49,
+      "nationality": "Norway",
+      "type": "artist",
+      "uri": "spotify:artist:0dR10i73opHXuRuLbgxltM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+      },
+      "followers": {
+        "href": null,
+        "total": 128233
+      },
+      "genres": ["art pop", "freak folk", "gaian doom", "sacramento indie"],
+      "href": "https://api.spotify.com/v1/artists/6ZK2nrW8aCTg8Bid7I7N10",
+      "id": "6ZK2nrW8aCTg8Bid7I7N10",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/873e5f075763a64df8fc95bde338a7cf77b04a92",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d5cf7ad97b957c15b85e1d02da00d4fe12e4591d",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/96488845c943a94112cef8d90d45e563689fd9ec",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/c96265e51c3f32af74869f23f81cf8056ec66a40",
+          "width": 64
+        }
+      ],
+      "name": "Chelsea Wolfe",
+      "popularity": 52,
+      "nationality": "USA",
+      "type": "artist",
+      "uri": "spotify:artist:6ZK2nrW8aCTg8Bid7I7N10"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7L6u6TyhjuwubrcojPeNgf"
+      },
+      "followers": {
+        "href": null,
+        "total": 149484
+      },
+      "genres": [
+        "atmospheric black metal",
+        "autonomous black metal",
+        "avantgarde metal",
+        "black metal",
+        "dungeon synth",
+        "metal",
+        "norwegian black metal",
+        "norwegian metal",
+        "pagan black metal",
+        "symphonic black metal",
+        "viking metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7L6u6TyhjuwubrcojPeNgf",
+      "id": "7L6u6TyhjuwubrcojPeNgf",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/0381707e5447e8b98a0a64a25c0f15f97e444d5c",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6e31a099aa9dcbce40e90fac3096cb7ab302773a",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/9a71453008c6e3b03a9f69a953c4f6707ebbed03",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/8adfe38c8ced638714335881bd6dad58b9717a83",
+          "width": 64
+        }
+      ],
+      "name": "Burzum",
+      "popularity": 51,
+      "nationality": "Norway",
+      "type": "artist",
+      "uri": "spotify:artist:7L6u6TyhjuwubrcojPeNgf"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+      },
+      "followers": {
+        "href": null,
+        "total": 2909424
+      },
+      "genres": [
+        "alternative metal",
+        "german metal",
+        "industrial",
+        "industrial metal",
+        "industrial rock",
+        "neue deutsche harte"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6wWVKhxIU2cEi0K81v7HvP",
+      "id": "6wWVKhxIU2cEi0K81v7HvP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/cdf344b2f5124d1f2f1217c45f12096730c70560",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/d7bba2e8eb624d93d8cc7cb57d9ba5fb35f0f901",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/019518862c16964fa30906a55ad2cd46f3f35c1a",
+          "width": 160
+        }
+      ],
+      "name": "Rammstein",
+      "popularity": 87,
+      "nationality": "Germany",
+      "type": "artist",
+      "uri": "spotify:artist:6wWVKhxIU2cEi0K81v7HvP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0erhjm5MwzWpFRFuorXLT2"
+      },
+      "followers": {
+        "href": null,
+        "total": 26965
+      },
+      "genres": ["grave wave", "neofolk"],
+      "href": "https://api.spotify.com/v1/artists/0erhjm5MwzWpFRFuorXLT2",
+      "id": "0erhjm5MwzWpFRFuorXLT2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/09ce5137f3d1e68f8f6d352900b46df963b4e338",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ea94b7d085dfc468a6a2c0df5080bfe49e6eba6c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/e4ce3c7f6f38a985943860d87771d54113ecc79e",
+          "width": 160
+        }
+      ],
+      "name": "King Dude",
+      "popularity": 44,
+      "nationality": "USA",
+      "type": "artist",
+      "uri": "spotify:artist:0erhjm5MwzWpFRFuorXLT2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4PdaU6ArZ8JTZvCX9ZWuTI"
+      },
+      "followers": {
+        "href": null,
+        "total": 45420
+      },
+      "genres": [
+        "black metal",
+        "finnish metal",
+        "folk metal",
+        "greek metal",
+        "melodic death metal",
+        "metal",
+        "pagan black metal",
+        "symphonic black metal",
+        "viking metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4PdaU6ArZ8JTZvCX9ZWuTI",
+      "id": "4PdaU6ArZ8JTZvCX9ZWuTI",
+      "images": [
+        {
+          "height": 563,
+          "url": "https://i.scdn.co/image/fa08993cd346db9038825b57fbc9cfed48bf4cef",
+          "width": 1000
+        },
+        {
+          "height": 360,
+          "url": "https://i.scdn.co/image/5a50061e2f351334633b70a5598aa4e53eccac59",
+          "width": 640
+        },
+        {
+          "height": 113,
+          "url": "https://i.scdn.co/image/5ad954a92f0b410486a501526c602af17f6e82e6",
+          "width": 200
+        },
+        {
+          "height": 36,
+          "url": "https://i.scdn.co/image/cc4422580c5234c6d8463d18caad686391a938e2",
+          "width": 64
+        }
+      ],
+      "name": "Moonsorrow",
+      "popularity": 38,
+      "nationality": "Finland",
+      "type": "artist",
+      "uri": "spotify:artist:4PdaU6ArZ8JTZvCX9ZWuTI"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+      },
+      "followers": {
+        "href": null,
+        "total": 1604369
+      },
+      "genres": [
+        "alternative rock",
+        "modern rock",
+        "permanent wave",
+        "pop rock",
+        "post-grunge",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3jOstUTkEu2JkjvRdBA5Gu",
+      "id": "3jOstUTkEu2JkjvRdBA5Gu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/1b0f517847eb0a75e14722f8f6ec575aecd5e0e5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/acf59e57cfd654817b6f064d93641afaf160cc7f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/3d38eaeab7d73acf30b4aedd9ff2f11c026e48eb",
+          "width": 160
+        }
+      ],
+      "name": "Weezer",
+      "popularity": 77,
+      "nationality": "USA",
+      "type": "artist",
+      "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1uPIYn2IU0IuPWSZ58kzyM"
+      },
+      "followers": {
+        "href": null,
+        "total": 69582
+      },
+      "genres": [
+        "austrian metal",
+        "black metal",
+        "brutal death metal",
+        "death metal",
+        "deathgrind",
+        "metal",
+        "pagan black metal",
+        "symphonic black metal",
+        "technical death metal",
+        "viking metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1uPIYn2IU0IuPWSZ58kzyM",
+      "id": "1uPIYn2IU0IuPWSZ58kzyM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/713e6a440ceeba066e31e50988bd201c73786c4b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/5db51d4a184702c47069449a654e3276a7030ddb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/2d28616d27de3b3858788f5c9f28193d51a41241",
+          "width": 160
+        }
+      ],
+      "name": "Belphegor",
+      "popularity": 43,
+      "nationality": "Austria",
+      "type": "artist",
+      "uri": "spotify:artist:1uPIYn2IU0IuPWSZ58kzyM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5556RAgwP70PnXbaUTGNbR"
+      },
+      "followers": {
+        "href": null,
+        "total": 88604
+      },
+      "genres": [
+        "aggrotech",
+        "ebm",
+        "electro-industrial",
+        "industrial",
+        "industrial metal",
+        "industrial rock",
+        "neue deutsche harte",
+        "nu metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5556RAgwP70PnXbaUTGNbR",
+      "id": "5556RAgwP70PnXbaUTGNbR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/acebae79af58c4eb01a6ac1b0a9a06fc2ea0e63e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/8cfef3b2aca051d06b8da048c1f53bb2f9c92e2c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/d6c69bf3b4a7ee38041d99d3da0ecb230fd465a5",
+          "width": 160
+        }
+      ],
+      "name": "Combichrist",
+      "popularity": 52,
+      "nationality": "Norway",
+      "type": "artist",
+      "uri": "spotify:artist:5556RAgwP70PnXbaUTGNbR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Meu28o8P5z9Zjm6NTGihT"
+      },
+      "followers": {
+        "href": null,
+        "total": 72159
+      },
+      "genres": [
+        "atmospheric black metal",
+        "atmospheric doom",
+        "avantgarde metal",
+        "black metal",
+        "blackgaze",
+        "doom metal",
+        "pagan black metal",
+        "portland metal",
+        "post-metal",
+        "usbm",
+        "viking metal",
+        "voidgaze"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3Meu28o8P5z9Zjm6NTGihT",
+      "id": "3Meu28o8P5z9Zjm6NTGihT",
+      "images": [
+        {
+          "height": 400,
+          "url": "https://i.scdn.co/image/0d03734f94e60963bfe6b3bc5ba1e847075aecff",
+          "width": 333
+        },
+        {
+          "height": 240,
+          "url": "https://i.scdn.co/image/d2bce5b5e2f20d479973006add6f19f866b81605",
+          "width": 200
+        },
+        {
+          "height": 77,
+          "url": "https://i.scdn.co/image/eba85aaba8f51dbcc09c7d7cd1ec998585475895",
+          "width": 64
+        }
+      ],
+      "name": "Agalloch",
+      "popularity": 44,
+      "nationality": "USA",
+      "type": "artist",
+      "uri": "spotify:artist:3Meu28o8P5z9Zjm6NTGihT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+      },
+      "followers": {
+        "href": null,
+        "total": 115488
+      },
+      "genres": [
+        "black metal",
+        "death metal",
+        "metal",
+        "norwegian black metal",
+        "norwegian metal",
+        "pagan black metal",
+        "symphonic black metal",
+        "viking metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/221Rd0FvVxMx7eCbWqjiKd",
+      "id": "221Rd0FvVxMx7eCbWqjiKd",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d3b85ce89e45222606052d65b69f18f5e52be8df",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/85febfd5690187f4db3f378f20ee2a8a6a40dad7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/1bfc21196beb0d48789fb97cfadbd5e2fd89a79d",
+          "width": 160
+        }
+      ],
+      "name": "Satyricon",
+      "popularity": 48,
+      "nationality": "Norway",
+      "type": "artist",
+      "uri": "spotify:artist:221Rd0FvVxMx7eCbWqjiKd"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+      },
+      "followers": {
+        "href": null,
+        "total": 131220
+      },
+      "genres": [
+        "doom metal",
+        "drone metal",
+        "psychedelic doom",
+        "sludge metal",
+        "space rock",
+        "stoner metal",
+        "stoner rock",
+        "uk doom metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4htjQW3lgIwL6fEJlTOez4",
+      "id": "4htjQW3lgIwL6fEJlTOez4",
+      "images": [
+        {
+          "height": 664,
+          "url": "https://i.scdn.co/image/bee61096977bc59279c1a3145f4e32df6a5d7b96",
+          "width": 1000
+        },
+        {
+          "height": 425,
+          "url": "https://i.scdn.co/image/4907f291560d0f65bd50c66753018e3e2f8a019d",
+          "width": 640
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/831382bf608ab0cb6c79e523128fa1f166aa7974",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/7b69950d45dc6e477520438db59c6194d037e547",
+          "width": 64
+        }
+      ],
+      "name": "Electric Wizard",
+      "popularity": 49,
+      "nationality": "UK",
+      "type": "artist",
+      "uri": "spotify:artist:4htjQW3lgIwL6fEJlTOez4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hiYKNf8gJkrqjdRPVLnTC"
+      },
+      "followers": {
+        "href": null,
+        "total": 13784
+      },
+      "genres": [
+        "black metal",
+        "death metal",
+        "metal",
+        "polish black metal",
+        "pagan black metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3hiYKNf8gJkrqjdRPVLnTC",
+      "id": "3hiYKNf8gJkrqjdRPVLnTC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/e1edd7c733af646fcc524a1465216aa723327a58",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/8a9e89d6857738dd23aa9ca42c67370ebe577531",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/fd4caf252d549f4dfb3ef5e2ec5cc7579a572919",
+          "width": 64
+        }
+      ],
+      "name": "Mgła",
+      "popularity": 33,
+      "nationality": "Poland",
+      "type": "artist",
+      "uri": "spotify:artist:3hiYKNf8gJkrqjdRPVLnTC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+      },
+      "followers": {
+        "href": null,
+        "total": 1850944
+      },
+      "genres": ["glam metal", "hard rock", "rock", "sleaze rock"],
+      "href": "https://api.spotify.com/v1/artists/0cc6vw3VN8YlIcvr1v7tBL",
+      "id": "0cc6vw3VN8YlIcvr1v7tBL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/82e32119f6232816abbf017a4bbb5481c5cb9d44",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/6721203f85506df49b96a361af155a78e9ed8310",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/31cf53a13e649f519154b47d03f913acd653a1ba",
+          "width": 160
+        }
+      ],
+      "name": "Mötley Crüe",
+      "popularity": 79,
+      "nationality": "USA",
+      "type": "artist",
+      "uri": "spotify:artist:0cc6vw3VN8YlIcvr1v7tBL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0BZr6WHaejNA63uhZZZZek"
+      },
+      "followers": {
+        "href": null,
+        "total": 35756
+      },
+      "genres": [
+        "atmospheric black metal",
+        "avantgarde metal",
+        "black metal",
+        "celtic metal",
+        "celtic rock",
+        "doom metal",
+        "folk metal",
+        "irish metal",
+        "melodic death metal",
+        "metal",
+        "pagan black metal",
+        "symphonic black metal",
+        "viking metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0BZr6WHaejNA63uhZZZZek",
+      "id": "0BZr6WHaejNA63uhZZZZek",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/6cbbda32c5781f86e969cc8ecfcf70cb284fc968",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/e4a45cb6b893ddb3a39437c8cf549aa2f140fd88",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/b336562f37933eb19e481697f8cb2e76d6f30db3",
+          "width": 160
+        }
+      ],
+      "name": "Primordial",
+      "popularity": 42,
+      "nationality": "Ireland",
+      "type": "artist",
+      "uri": "spotify:artist:0BZr6WHaejNA63uhZZZZek"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+      },
+      "followers": {
+        "href": null,
+        "total": 659162
+      },
+      "genres": ["metal"],
+      "href": "https://api.spotify.com/v1/artists/1Qp56T7n950O3EGMsSl81D",
+      "id": "1Qp56T7n950O3EGMsSl81D",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4d4e18d9cf20d3039201fb4f185e0e498275cb06",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/d40e20479070b844405bb4788fc6bc618616ac28",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/e406b600fc1bae338d27aea2b78623b63e4509a0",
+          "width": 160
+        }
+      ],
+      "name": "Ghost",
+      "popularity": 71,
+      "nationality": "Sweden",
+      "type": "artist",
+      "uri": "spotify:artist:1Qp56T7n950O3EGMsSl81D"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+      },
+      "followers": {
+        "href": null,
+        "total": 48724
+      },
+      "genres": [
+        "atmospheric black metal",
+        "avantgarde metal",
+        "black metal",
+        "blackgaze",
+        "drone metal",
+        "pagan black metal",
+        "post-doom metal",
+        "post-metal",
+        "technical black metal",
+        "usbm",
+        "voidgaze"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5lqyPWmAivV75tII5Vxpet",
+      "id": "5lqyPWmAivV75tII5Vxpet",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/f152119450de5edd51b4d3d473d984ef06e05b52",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/9322cab6350c63ee6210cb4338b61ddd7eb5ca3a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/193e6471d514959892fd03fafbb0a9b489f1ef3d",
+          "width": 160
+        }
+      ],
+      "name": "Wolves In The Throne Room",
+      "pop": 10,
+      "nationality": "USA",
+      "type": "artist",
+      "uri": "spotify:artist:5lqyPWmAivV75tII5Vxpet"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7"
+      },
+      "followers": {
+        "href": null,
+        "total": 98706
+      },
+      "genres": [
+        "atmospheric black metal",
+        "avantgarde metal",
+        "blackgaze",
+        "french black metal",
+        "french metal",
+        "french shoegaze",
+        "pagan black metal",
+        "post-black metal",
+        "post-metal",
+        "post-rock",
+        "shoegaze"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0d5ZwMtCer8dQdOPAgWhe7",
+      "id": "0d5ZwMtCer8dQdOPAgWhe7",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/4f771e677fc78b47f1108c62ad0cea25c1051ada",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/4db1d7b17327e7560c14bffff89d17583bc5663e",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/07b123015a3ca94d809262d56497314366553e46",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/946b39839f16cb6059220c0b79aa278c723c1e7e",
+          "width": 64
+        }
+      ],
+      "name": "Alcest",
+      "popularity": 47,
+      "nationality": "France",
+      "type": "artist",
+      "uri": "spotify:artist:0d5ZwMtCer8dQdOPAgWhe7"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+      },
+      "followers": {
+        "href": null,
+        "total": 460169
+      },
+      "genres": [
+        "alternative metal",
+        "groove metal",
+        "hard rock",
+        "metal",
+        "nu metal",
+        "post-grunge",
+        "progressive metal",
+        "rock",
+        "sludge metal",
+        "stoner metal"
+      ],
+      "href": "https://api.spotify.com/v1/artists/1Dvfqq39HxvCJ3GvfeIFuT",
+      "id": "1Dvfqq39HxvCJ3GvfeIFuT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/9e7b87a0d576a0d4f8402964fcbd1852aa4c5da6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/59ceb9e1e10ad7a9b2118994fbfc67d3dc559c65",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/668eda566d1a8255b3b99ad34432339ae79c61ce",
+          "width": 160
+        }
+      ],
+      "name": "Mastodon",
+      "popularity": 64,
+      "nationality": "USA",
+      "type": "artist",
+      "uri": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "followers": {
+        "href": null,
+        "total": 9322818
+      },
+      "genres": [
+        "album rock",
+        "art rock",
+        "classic rock",
+        "progressive rock",
+        "psychedelic rock",
+        "rock",
+        "symphonic rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+      "id": "0k17h0D3J5VfsdmQ1iZtE9",
+      "images": [
+        {
+          "height": 977,
+          "url": "https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa",
+          "width": 1000
+        },
+        {
+          "height": 625,
+          "url": "https://i.scdn.co/image/d011c95081cd9a329e506abd7ded47535d524a07",
+          "width": 640
+        },
+        {
+          "height": 195,
+          "url": "https://i.scdn.co/image/f0a39a8a196a87a7236bdcf8a8708f6d5d3547cc",
+          "width": 200
+        },
+        {
+          "height": 63,
+          "url": "https://i.scdn.co/image/ec1fb7127168dbaa962404031409c5a293b95ec6",
+          "width": 64
+        }
+      ],
+      "name": "Pink Floyd",
+      "popularity": 83,
+      "nationality": "UK",
+      "type": "artist",
+      "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+    }
+  ],
+  "total": 50,
+  "limit": 20,
+  "offset": 0,
+  "previous": null,
+  "href": "https://api.spotify.com/v1/me/top/artists",
+  "next": "https://api.spotify.com/v1/me/top/artists?limit=20&offset=20"
+}

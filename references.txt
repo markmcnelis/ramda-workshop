@@ -1,0 +1,6 @@
+http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/
+https://martinfowler.com/articles/collection-pipeline/
+https://martinfowler.com/articles/refactoring-pipelines.html
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+https://github.com/ramda/ramda/wiki
+https://github.com/ramda/ramda/wiki/Cookbook
